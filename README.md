@@ -1,8 +1,19 @@
+<html>
+    <h1 align="center">Hi there 👋, <b>Saksham Chauhan</b> here!</h1>
+    <h4 align="center">An engaged, creative Computer Science undergraduate.</h4><br>
+</html>
 
-<font align="center">
-    <h2>Hi there 👋, <b>Saksham Chauhan</b> here!</h2>
-    <h4>A Inquisitive, energetic computer science specialist.</h4>
-</font>
+### Welcome to my Github Profile.
+ - 👨‍🎓I'm pursuing Bachelors of Technology in Computer Science (3rd year).
+ - 📱📲💻🖥💾📡📚🔖
+ - 💻 I'm presently working on Web development and Scraping. 
+ - 📚 I’m currently learning Machine Learning.
+ - 🎮 Fun fact: I love to play action games.
+
+<html>
+    <h3>📬 How to connect with me:</h3>
+    <h3>👨🏻‍💻 Programming languages familiar with:</h3>
+</html>
 <!--
 **SkshmChauhan/SkshmChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
