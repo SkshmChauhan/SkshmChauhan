@@ -16,7 +16,7 @@
         <img align="center" src="https://user-images.githubusercontent.com/51049057/111037570-ae33aa80-844a-11eb-8e10-4c436b322869.png" alt="Linkedin" width="35" height="35"/>
     </a><font> </font><a href="https://twitter.com/SakshamChauhn">
         <img align="center" src="https://user-images.githubusercontent.com/51049057/123517308-dc698d00-d6bd-11eb-8d43-d684b584c091.png" alt="twitter" width="35" height="35"/>
-    </a><font> </font><a href="@saksham.beapart312">
+    </a><font> </font><a href="https://join.skype.com/invite/xyZAgBEv4MXF">
         <img align="center" src="https://user-images.githubusercontent.com/51049057/123517540-2b63f200-d6bf-11eb-9ab1-4e14f3c5a6e6.png" alt="Skype" width="35" height="35"/>
     </a><font> </font><a href="https://www.instagram.com/saksham.chauhn/">
         <img align="center" src="https://user-images.githubusercontent.com/51049057/111037682-3d40c280-844b-11eb-967e-09e10ade4f2d.png" alt="Instagram" width="35" height="35"/>
@@ -39,6 +39,12 @@
     </a>
     <a href="https://www.linkedin.com/in/saksham312/">
         <img align="center" src="https://user-images.githubusercontent.com/51049057/111037317-8263f500-8449-11eb-81bb-8c833024c041.png"  width="35" height="35"/>
+    </a>
+    <a href="https://www.linkedin.com/in/saksham312/">
+        <img align="center" src="https://user-images.githubusercontent.com/51049057/123518472-afb87400-d6c3-11eb-85a1-82a34cbcec08.png"  width="35" height="35"/>
+    </a>
+    <a href="https://www.linkedin.com/in/saksham312/">
+        <img align="center" src="https://user-images.githubusercontent.com/51049057/123518336-0e312280-d6c3-11eb-91fe-62aace5ad15f.png"  width="35" height="35"/>
     </a>
     <br><br><br>
     </body>
