@@ -4,7 +4,7 @@
 </html>
 
 ### Welcome to my Github Profile.
- - 👨‍🎓I'm pursuing Bachelors of Technology in Computer Science (Final year).
+ - 👨‍🎓 I'm pursuing Bachelors of Technology in Computer Science (Final year).
  - 💻 I'm presently working on Web development and Scraping. 
  - 📚 I’m currently learning Machine Learning.
  - 🎮 Fun fact: I love to play action games.
