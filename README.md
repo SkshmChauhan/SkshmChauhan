@@ -51,10 +51,10 @@
 </html>
 
 <a href="https://github.com/SkshmChauhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skshmchauhan&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamchauhn&count_private=true&show_icons=true&theme=chartreuse-dark"/>
 </a>
 <a href="https://github.com/SkshmChauhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshmchauhan&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamchauhn&theme=chartreuse-dark" />
 </a>
 <!--
 **SkshmChauhan/SkshmChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
